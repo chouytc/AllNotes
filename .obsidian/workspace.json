@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1b49e28772604519",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32e38d47e166723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1777e50c9a48034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/时间复杂度余空间复杂度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "689c811ade59b5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "701ca0b161111a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa7d0a811c63fb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6065c6b4dd8e3760",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7ddf6173a1f6ff3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7426f13f33bc90e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb810f7db640377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3b2b6db5d8cbf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/时间复杂度余空间复杂度.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebe5c8d7868ffa60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/时间复杂度余空间复杂度.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38afe90af7e00dad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "570b12e44baecdb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构/时间复杂度余空间复杂度.md"
+              }
+            }
+          },
+          {
+            "id": "497f3e7ca7683cf2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9a189da1aa0b304",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "b1777e50c9a48034",
+  "lastOpenFiles": [
+    "AllNotes",
+    "数据结构/未命名.md",
+    "数据结构/时间复杂度余空间复杂度.md",
+    "Excalidraw/Drawing 2023-03-22 19.25.30.excalidraw.md",
+    "Excalidraw",
+    "[.md",
+    "数据结构/未命名.canvas",
+    "2023-03-22.md",
+    "数据结构/Drawing 2023-03-22 17.44.40.excalidraw.md",
+    "数据结构"
+  ]
+}

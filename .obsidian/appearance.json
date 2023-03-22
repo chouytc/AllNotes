@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Cascadia Mono",
+  "enabledCssSnippets": [
+    "color-Heading"
+  ],
+  "translucency": true
+}
