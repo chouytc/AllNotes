@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPointer",
+      "LiPenTool",
+      "SiDrupalWhite",
       "SiMarkdown",
-      "FasNote-sticky",
-      "LiCode",
-      "SiMdbook",
-      "Si1001tracklists"
+      "FasNote-sticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,5 +22,7 @@
     }
   },
   "数据结构": "SiMdbook",
-  "数据结构/时间复杂度余空间复杂度.md": "SiMarkdown"
+  "数据结构/时间复杂度和空间复杂度.md": "SiMarkdown",
+  "C语言笔记": "LiPenTool",
+  "C语言笔记/指针": "LiPointer"
 }

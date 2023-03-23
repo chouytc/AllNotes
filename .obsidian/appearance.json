@@ -1,9 +1,20 @@
 {
-  "accentColor": "",
+  "accentColor": "#5988a1",
   "cssTheme": "Minimal",
   "monospaceFontFamily": "Cascadia Mono",
   "enabledCssSnippets": [
-    "color-Heading"
+    "Themed Loading Page",
+    "Pub-Image Flags",
+    "Mint Green Version",
+    "Hover Frontmatter",
+    "Cotton Candy Version",
+    "Blood Moon Version",
+    "Boba Milk Tea Version",
+    "Blue Christmas Version",
+    "color-Heading",
+    "custom-admonitions.c26772"
   ],
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian",
+  "nativeMenus": false
 }

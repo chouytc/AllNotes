@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d32e38d47e166723",
+        "id": "04bc0e8c161c67cc",
         "type": "tabs",
         "children": [
           {
-            "id": "b1777e50c9a48034",
+            "id": "3598fc5765750d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "数据结构/时间复杂度余空间复杂度.md",
-                "mode": "source",
-                "source": false
+                "file": "C语言笔记/指针/指针.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7426f13f33bc90e0",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/时间复杂度余空间复杂度.md",
+                "file": "C语言笔记/指针/指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/时间复杂度余空间复杂度.md",
+                "file": "C语言笔记/指针/指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/时间复杂度余空间复杂度.md"
+                "file": "C语言笔记/指针/指针.md"
               }
             }
           },
@@ -145,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,27 +154,56 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "b1777e50c9a48034",
+  "active": "3598fc5765750d06",
   "lastOpenFiles": [
-    "AllNotes",
+    "C语言笔记/数据的存储/浮点数存储.md",
+    "C语言笔记/指针/指针.md",
+    "数据结构/时间复杂度和空间复杂度.md",
+    "C语言笔记/指针/ .md",
+    "images/Pasted Image 20230323133031_115 1.png",
+    "Pasted Image 20230323150616_542.png",
+    "images/Pasted Image 20230323133031_115.png",
+    "images/Pasted Image 20230323144718_099.png",
+    "images/Pasted Image 20230323141458_071.png",
+    "images/Pasted Image 20230323141325_098.png",
+    "images/Pasted Image 20230323140126_106.png",
+    "images/Pasted Image 20230323134836_071.png",
+    "images/Pasted Image 20230323133419_778.png",
+    "images/Pasted Image 20230323133306_078.png",
+    "images",
+    "新建文件夹",
+    "Excalidraw/Drawing 2023-03-23 15.04.15.excalidraw.md",
+    "C语言笔记/指针",
+    "C语言笔记/数据的存储",
+    "素材库/aws-architecture-icons.excalidrawlib",
+    "素材库/未确认 490607.crdownload",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/fonts/chinese.ttf",
+    "Excalidraw/fonts/未确认 975048.crdownload",
+    "Excalidraw/fonts",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded",
+    "C语言笔记/浮点数的存储.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md",
+    "Excalidraw/Drawing 2023-03-22 23.40.43.excalidraw.md",
+    "2023-03-22.md",
     "数据结构/未命名.md",
-    "数据结构/时间复杂度余空间复杂度.md",
     "Excalidraw/Drawing 2023-03-22 19.25.30.excalidraw.md",
-    "Excalidraw",
     "[.md",
     "数据结构/未命名.canvas",
-    "2023-03-22.md",
-    "数据结构/Drawing 2023-03-22 17.44.40.excalidraw.md",
-    "数据结构"
+    "数据结构/Drawing 2023-03-22 17.44.40.excalidraw.md"
   ]
 }
