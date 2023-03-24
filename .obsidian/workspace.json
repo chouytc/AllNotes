@@ -8,16 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00d5f8ee572f8aa8",
+            "id": "4876346220e0550e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ea2f3d2d95aeb92",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "C语言笔记/指针/指针进阶1,2.md"
+                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言笔记/指针/指针进阶1,2.md",
+                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言笔记/指针/指针进阶1,2.md",
+                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言笔记/指针/指针进阶1,2.md"
+                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md"
               }
             }
           },
@@ -163,10 +172,17 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "7fa7d0a811c63fb3",
+  "active": "8ea2f3d2d95aeb92",
   "lastOpenFiles": [
-    "C语言笔记/数据的存储/浮点数存储.md",
+    "C语言笔记/指针/Drawing 2023-03-24 12.58.29.excalidraw.md",
+    "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
     "C语言笔记/指针/指针进阶1,2.md",
+    "作业画图解释/程序死循环解释.png",
+    "作业画图解释/程序死循环解释.md",
+    "作业画图/Drawing 2023-03-24 14.44.52.excalidraw.md",
+    "作业画图解释",
+    "作业画图",
+    "C语言笔记/数据的存储/浮点数存储.md",
     "Pasted Image 20230324010125_873.png",
     "Pasted Image 20230324005325_880.png",
     "Pasted Image 20230324004313_865.png",
@@ -178,7 +194,6 @@
     "Pasted Image 20230323215928_894.png",
     "数据结构/时间复杂度和空间复杂度.md",
     "C语言笔记/指针/ .md",
-    "images/Pasted Image 20230323133031_115 1.png",
     "images",
     "新建文件夹",
     "Excalidraw/Drawing 2023-03-23 15.04.15.excalidraw.md",
@@ -190,9 +205,7 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/fonts/chinese.ttf",
     "Excalidraw/fonts/未确认 975048.crdownload",
-    "Excalidraw/fonts",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded",
     "C语言笔记/浮点数的存储.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
