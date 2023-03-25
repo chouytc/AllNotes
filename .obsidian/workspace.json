@@ -21,7 +21,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md"
+                "file": "C语言笔记/指针/指针进阶3,4.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
+                "file": "C语言笔记/指针/指针进阶3,4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
+                "file": "C语言笔记/指针/指针进阶3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md"
+                "file": "C语言笔记/指针/指针进阶3,4.md"
               }
             }
           },
@@ -172,10 +172,12 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "8ea2f3d2d95aeb92",
+  "active": "7fa7d0a811c63fb3",
   "lastOpenFiles": [
+    "images/Pasted Image 20230325145812_507.png",
+    "images/Pasted Image 20230325143707_105.png",
     "C语言笔记/指针/Drawing 2023-03-24 12.58.29.excalidraw.md",
-    "C语言笔记/指针/Drawing 2023-03-24 22.52.46.excalidraw.md",
+    "C语言笔记/指针/指针进阶3,4.md",
     "C语言笔记/指针/指针进阶1,2.md",
     "作业画图解释/程序死循环解释.png",
     "作业画图解释/程序死循环解释.md",
@@ -191,7 +193,6 @@
     "Pasted Image 20230323234549_872.png",
     "Pasted Image 20230323223407_874.png",
     "Pasted Image 20230323220756_868.png",
-    "Pasted Image 20230323215928_894.png",
     "数据结构/时间复杂度和空间复杂度.md",
     "C语言笔记/指针/ .md",
     "images",
