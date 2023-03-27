@@ -14,5 +14,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "markdown-prettifier",
   "nldates-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-paste-image-rename",
+  "short-internal-links-to-headings"
 ]

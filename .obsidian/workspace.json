@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e625a7f41dddf2d",
+        "id": "49608b64baaf25e6",
         "type": "tabs",
         "children": [
           {
-            "id": "4876346220e0550e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ea2f3d2d95aeb92",
+            "id": "a952c1a2c8411bee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -25,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:000000",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,27 +163,28 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "7fa7d0a811c63fb3",
+  "active": "a952c1a2c8411bee",
   "lastOpenFiles": [
+    "Pasted Image 20230327220609_870.png",
+    "C语言笔记/指针/指针进阶1,2.md",
+    "C语言笔记/数据的存储/浮点数存储.md",
+    "Excalidraw/Drawing 2023-03-26 17.58.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-26 17.58.19.excalidraw.png",
+    "C语言笔记/指针/指针进阶3,4.md",
     "images/Pasted Image 20230325145812_507.png",
     "images/Pasted Image 20230325143707_105.png",
     "C语言笔记/指针/Drawing 2023-03-24 12.58.29.excalidraw.md",
-    "C语言笔记/指针/指针进阶3,4.md",
-    "C语言笔记/指针/指针进阶1,2.md",
     "作业画图解释/程序死循环解释.png",
     "作业画图解释/程序死循环解释.md",
     "作业画图/Drawing 2023-03-24 14.44.52.excalidraw.md",
     "作业画图解释",
     "作业画图",
-    "C语言笔记/数据的存储/浮点数存储.md",
     "Pasted Image 20230324010125_873.png",
     "Pasted Image 20230324005325_880.png",
     "Pasted Image 20230324004313_865.png",
     "Pasted Image 20230324003911_869.png",
     "Pasted Image 20230324002815_254.png",
     "Pasted Image 20230323234549_872.png",
-    "Pasted Image 20230323223407_874.png",
-    "Pasted Image 20230323220756_868.png",
     "数据结构/时间复杂度和空间复杂度.md",
     "C语言笔记/指针/ .md",
     "images",
