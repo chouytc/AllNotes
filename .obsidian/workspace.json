@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "49608b64baaf25e6",
+        "id": "3a44fd58ab5504d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a952c1a2c8411bee",
+            "id": "1afecc59f1ab850d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "C语言笔记/指针/指针进阶3,4.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言笔记/指针/指针进阶3,4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言笔记/指针/指针进阶3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C语言笔记/指针/指针进阶3,4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,28 +157,31 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "a952c1a2c8411bee",
+  "active": "1afecc59f1ab850d",
   "lastOpenFiles": [
-    "Pasted Image 20230327220609_870.png",
+    "C语言笔记/指针/指针和数组笔试题解析.md",
+    "images/Pasted Image 20230401223607_507.png",
+    "images/Pasted Image 20230401221425_508.png",
+    "images/Pasted Image 20230401221354_706.png",
+    "images/Pasted Image 20230401215834_526.png",
+    "images/Pasted Image 20230401215244_431.png",
+    "images/Pasted Image 20230401213200_510.png",
+    "Pasted Image 20230401223607_507.png",
+    "Pasted Image 20230401221425_508.png",
+    "Pasted Image 20230401221354_706.png",
+    "Pasted Image 20230401215834_526.png",
+    "C语言笔记/指针/复习回顾一下知识.md",
+    "C语言笔记/指针/指针进阶3,4.md",
+    "Excalidraw/Drawing 2023-03-29 23.54.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-29 23.27.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-26 17.58.19.excalidraw.md",
     "C语言笔记/指针/指针进阶1,2.md",
     "C语言笔记/数据的存储/浮点数存储.md",
-    "Excalidraw/Drawing 2023-03-26 17.58.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-26 17.58.19.excalidraw.png",
-    "C语言笔记/指针/指针进阶3,4.md",
-    "images/Pasted Image 20230325145812_507.png",
-    "images/Pasted Image 20230325143707_105.png",
     "C语言笔记/指针/Drawing 2023-03-24 12.58.29.excalidraw.md",
-    "作业画图解释/程序死循环解释.png",
     "作业画图解释/程序死循环解释.md",
     "作业画图/Drawing 2023-03-24 14.44.52.excalidraw.md",
     "作业画图解释",
     "作业画图",
-    "Pasted Image 20230324010125_873.png",
-    "Pasted Image 20230324005325_880.png",
-    "Pasted Image 20230324004313_865.png",
-    "Pasted Image 20230324003911_869.png",
-    "Pasted Image 20230324002815_254.png",
-    "Pasted Image 20230323234549_872.png",
     "数据结构/时间复杂度和空间复杂度.md",
     "C语言笔记/指针/ .md",
     "images",
@@ -207,8 +204,6 @@
     "2023-03-22.md",
     "数据结构/未命名.md",
     "Excalidraw/Drawing 2023-03-22 19.25.30.excalidraw.md",
-    "[.md",
-    "数据结构/未命名.canvas",
-    "数据结构/Drawing 2023-03-22 17.44.40.excalidraw.md"
+    "数据结构/未命名.canvas"
   ]
 }
