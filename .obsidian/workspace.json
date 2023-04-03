@@ -14,8 +14,29 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5d2e29d0880619e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md"
+              }
+            }
+          },
+          {
+            "id": "70a16c7e1d9eca6f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230403225045_697.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md"
+              }
             }
           },
           {
@@ -157,8 +182,15 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "1afecc59f1ab850d",
+  "active": "5d2e29d0880619e3",
   "lastOpenFiles": [
+    "Pasted Image 20230403232757_817.png",
+    "Pasted Image 20230403225045_697.png",
+    "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md",
+    "Pasted Image 20230403225038_969.png",
+    "Pasted Image 20230402231954_914.png",
+    "Pasted Image 20230402172137_439.png",
+    "C语言笔记/字符串+内存函数的介绍",
     "C语言笔记/指针/指针和数组笔试题解析.md",
     "images/Pasted Image 20230401223607_507.png",
     "images/Pasted Image 20230401221425_508.png",
@@ -166,10 +198,6 @@
     "images/Pasted Image 20230401215834_526.png",
     "images/Pasted Image 20230401215244_431.png",
     "images/Pasted Image 20230401213200_510.png",
-    "Pasted Image 20230401223607_507.png",
-    "Pasted Image 20230401221425_508.png",
-    "Pasted Image 20230401221354_706.png",
-    "Pasted Image 20230401215834_526.png",
     "C语言笔记/指针/复习回顾一下知识.md",
     "C语言笔记/指针/指针进阶3,4.md",
     "Excalidraw/Drawing 2023-03-29 23.54.25.excalidraw.md",
@@ -194,7 +222,6 @@
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/fonts/chinese.ttf",
-    "Excalidraw/fonts/未确认 975048.crdownload",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "C语言笔记/浮点数的存储.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
@@ -203,7 +230,6 @@
     "Excalidraw/Drawing 2023-03-22 23.40.43.excalidraw.md",
     "2023-03-22.md",
     "数据结构/未命名.md",
-    "Excalidraw/Drawing 2023-03-22 19.25.30.excalidraw.md",
     "数据结构/未命名.canvas"
   ]
 }
