@@ -29,10 +29,8 @@
             "id": "70a16c7e1d9eca6f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230403225045_697.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -184,6 +182,11 @@
   },
   "active": "5d2e29d0880619e3",
   "lastOpenFiles": [
+    "Pasted Image 20230404163134_874.png",
+    "Pasted Image 20230404162249_882.png",
+    "Pasted Image 20230404140857_881.png",
+    "Pasted Image 20230404140552_877.png",
+    "Pasted Image 20230404135119_876.png",
     "Pasted Image 20230403232757_817.png",
     "Pasted Image 20230403225045_697.png",
     "C语言笔记/字符串+内存函数的介绍/字符串+字符串函数.md",
@@ -193,11 +196,6 @@
     "C语言笔记/字符串+内存函数的介绍",
     "C语言笔记/指针/指针和数组笔试题解析.md",
     "images/Pasted Image 20230401223607_507.png",
-    "images/Pasted Image 20230401221425_508.png",
-    "images/Pasted Image 20230401221354_706.png",
-    "images/Pasted Image 20230401215834_526.png",
-    "images/Pasted Image 20230401215244_431.png",
-    "images/Pasted Image 20230401213200_510.png",
     "C语言笔记/指针/复习回顾一下知识.md",
     "C语言笔记/指针/指针进阶3,4.md",
     "Excalidraw/Drawing 2023-03-29 23.54.25.excalidraw.md",
